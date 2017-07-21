@@ -1,0 +1,581 @@
+Variable,Label Name
+acid_phos,Acid Phosphate
+alka_phos,Alkaline Phosphatase (ALP)
+anti.hbs,Anti-HBs
+anti.hbe,Anti-HBe
+anti.hbc,Anti-HBc
+anti.hbc_Igm,Anti-HBc IgM
+anti.hbs_chem,Anti-HBs (Chemilu)
+anti.hav,Anti HAV
+anti.hav_lgm,Anti HAV Igm
+anti.trepo,Anti-Treponema/RPR (Qualitative)
+amylase,Amylase
+anti.strepto,Anti- Streptolysin-O (ASO)
+aso,ASO (Quantitative)
+apheresis,Apheresis Derived Components
+apt_test,Apt’s Test
+abg,Arterial Blood Gas (ABG)
+abg_pointofcare,Arterial Blood Gas (ABG) Point of Care
+autopsy,Autopsy
+bil_total,Bilirubin - Total
+bil_direct,Bilirubin - Direct
+bil_indirect,Bilirubin - Indirect
+bil_bil_totalanddirect,Bilirubin - Bilirubin (Total & Direct)
+bil_totalbil_b1b2,"Bilirubin - Total Bilirubin, B1B2"
+bld.culture,Blood Culture
+bld.cultureandsens,Blood Culture & Sensitivity
+bldCSPLN,Blood Culture and Sensitivity - Blood Culture - Blood CS Plain
+bldCSwARD,Blood Culture and Sensitivity - Blood Culture - Blood CS with ARD (Anti Resistant Drug)
+bld.cultureandsens_c,Blood Culture and Sensitivity - CSF and other body fluids Culture and Sensitivity
+bld.cultureandsens_sputuadnOthrs,Blood Culture and Sensitivity - Sputum and other Respiratory specimens Culture and Sensitivity
+bld.cultureandsens_stool,Blood Culture and Sensitivity - Stool Culture and Sensitivity
+bld.cultureandsens_urine,Blood Culture and Sensitivity - Urine Culture and Sensitivity
+bld.cultureandsens_wound,Blood Culture and Sensitivity - Wound and other Discharges Culture and Sensitivity
+disch_cultureandsens,Discharges culture and sensitivity
+csf,CSF Glucose
+bld.glc.exam,Blood Glucose Exam
+bld.glc.exam_fasting,Blood Glucose Exam - Fasting Blood Glucose
+bld.glc.exam,Blood Glucose Exam - Glucose
+cbld.glc.exam,C Blood Glucose Exam - erebrospinal fluid (CSF) / Other Body Fluids OBF)
+glc.exam.OGT.unsp,Blood Glucose Exam - Oral Glucose Tolerance Test - Unspcfd
+glc.exam.OGT.serum,Blood Glucose Exam - Oral Glucose Tolerance Test - Serum
+glc.exam.OGT.urine,Blood Glucose Exam - Oral Glucose Tolerance Test - Urine
+glc.exam.OGT.50,Blood Glucose Exam - Oral Glucose Tolerance Test- 50g
+glc.exam.OGT.75,Blood Glucose Exam - Oral Glucose Tolerance Test -  75g
+glc.exam.OGT.100,Blood Glucose Exam - Oral Glucose Tolerance Test - 100g
+bld.glc.exam.rbs,Blood Glucose Exam - Random Blood Sugar
+bld.glc.exam.pbs,Blood Glucose Exam - 2-Hrs. Post Prandial Blood Sugar
+bld.glc.exam.urine,Blood Glucose Exam - Urine Glucose
+bld_typ,Blood Typing
+bld_typ.RH,Blood Typing/ RH Typing
+bld_typ.conv,Blood Typing (Conventional)
+bld_typ.auto,Blood Typing (Automated)
+bld_typ.RH,Blood Typing with RH
+bld_typ.AO,"Blood Typing (ABO, Rh)"
+bld_retyp,Blood Retyping
+bld_transf,Blood Transfusion reaction work-up
+bld.str.all,Blood Storage - All Component
+col_bldspec,Collection of Blood Specimen
+hemo.test,Hemolysis Testing
+bone.aspir,Bone Marrow Aspirate
+bone.aspir.biopsy,Bone Marrow Aspirate with Core Biopsy
+bone.marrow.sm,Bone Marrow Smear
+clot.time,Clotting Time
+bleed.time,Bleeding Time
+le.count,LE Count
+lee.wht.clot,Lee White Clotting
+clot.ret.time,Clot Retraction Time
+comp03,Complement 3 (C3)
+tube_meth,Tube Method
+gel_tech,Gel Technique
+tube_weld,Tube Welding
+comp_test,Compatibility Testing
+compl_bldcount,Complete Blood Count
+compl_bldcount.PC,Complete Blood Count with Platelet Count
+col_agglu.compl.cros,Column Agglutination - complete crossmatching with blood typing
+col_agglu.anti.bo,Column Agglutination - Antobody screening (Donor)
+col_agglu.anti.bo,Column Agglutination - Antibody (patient)
+col_agglu.bld.typ,"Column Agglutination - blood typing, reverse typing"
+comb_t_dI,Coomb's Test (direct and indirect)
+comb_t_d,Coomb's Test (Direct)
+comb_t_I,Coomb's Test (Indirect)
+dutest,Du Testing
+glob,Globulin
+dir_anti.glob,Direct Antihuman Globulin (Coomb's test)
+I_anti.glob,Indirect Antihuman Globulin (Coomb's test)
+leuk_Red,Leukocyte Reduced Red Blood Cell (any volume)
+pack_RBC,Packed RBC
+wash_RBC,Washed RBC
+new_SCR,Newborn Screening
+obc,Other Blood Component
+cerv_culture,Cervical Culture
+c_react.pro,C-Reactive Protein
+c_react.proQL,C-Reactive Protein (Qualitative)
+c_react.proQT,C-Reactive Protein (Quantitative)
+c_react.proHS,High Sensitivity C-Reactive Protein
+cultureandsens.WUSL,"Culture & Sensitivity - (wound, urine, skin, lesions)"
+CD4,CD4 Count
+cros_match,Crossmatching
+cros_matchCON,Crossmatching (Conventional)
+cros_matchAUTO,Cossmatching (Automated)
+cros_matchINC,Incompatible Crossmatches (Maximum of 4 units)
+cros_match.tubme,Cross Matching - Tube Method
+cros_match.geltech,Cross Matching - Gel Technique
+cererb_diffcount,Cerebrospinal fluid Cell and Differential counts
+cereb_fluids,"Cerebrospinal Fluid and Other Body Fluids (Cell Count, Differential Count, Pandy's Rivaltas)"
+otherBfluids_diffct,Other Body Fluids Cell and Differential counts
+cereb_fluids.SandP,Cerebrospinal fluid Sugar and Protein
+culture_bld,Culture -Blood
+culture_otherbBfluids,Culture - Other Body Fluids
+culture_stool,Culture - Stool
+culture_urine,Culture - Urine
+cyto,Cytology
+cyto_cb,Cytology & Cell Block
+cb,Cell Block
+cyto_otherbBfluids,Cytology & Other Body Fluid
+cyto_fnab,Cytology / Fine Needle Aspiration Biopsy (FNAB)
+cyto_fnab_wcb,Cytology/Fine Needle Aspiration Biopsy (FNAB) with Cell Block
+fnab,FNAB
+fnab_cb,FNAB/ Cell Block
+cyto_fnab_wcbiopsy,Cytology / Fine Needle Aspiration Biopsy (FNAB) with Core Biopsy
+dengue_duo,Dengue Duo (NS1Ag and IgG-IgM Ab)
+dengue_scrn_abNS1AG,Dengue Screening (Ab+NS1Ag)
+dengue_NS1AG,Dengue NS1AG
+dengue_nsi,Dengue NSI
+diff_count,Differential count
+EPH_ER,ER-PR-Her2 - Estrogen Receptor (ER)
+EPH_PR,ER-PR-Her2 - Progesterone Receptor (PR)
+EPH_HER,ER-PR-Her2 - Her2Neu  Receptor (Her2)
+EPH_HER_pack,ER-PR-Her2 Package
+ER_PR_pack,ER/PR package
+ER_PR_recep,Estrogen/Progesterone Receptor (ER/PR)
+HER_pack,Her2 Package
+HER,Her2
+ESR,Erythrocyte Sedimentation Rate
+HispServ_HEPS.sm,Histopathology Services - H & E Parafin Services - Small
+HispServ_HEPS.med,Histopathology Services - H & E Parafin Services - Medium
+HispServ_HEPS.large,Histopathology Services - H & E Parafin Services - Large
+HispServ_HEPS.exlarge,Histopathology Services - H & E Parafin Services - Extra Large
+HispServ_HEPS.rad,Histopathology Services - H & E Parafin Services - Radical
+HispServ_HEPS.BLS,"Histopathology Services - H & E Parafin Services - Special Tissue (Brain, Lungs, Spine)"
+HispServ_FS,Histopathology Services - Frozen Section
+HispServ_FNAB,Histopathology Services - Fine Needle Aspirate Biopsy (FNAB) and other body Fluids
+HispServ_otherbBfluids,Histopathology Services - Add: Per additional slides
+FSD1,Frozen Small Definitive
+FLD2,Frozen Large Definitive
+GenXpert,GenXpert MTB/RIF
+GH_ HbA1c,Glycosylated Hemoglobin (HbA1c)
+gs_USO,"Gram’s Staining (Urine, Sputum,OBF)"
+d.dim,D-dimer
+hemato,Hematocrit
+hemog,Hemogoblin
+h.pylo,H. pylori test
+anit.hc,Anti-HCV
+anti.hc_rap,Anti-HCV testing (rapid)
+anti.hc_ev,Anti-HCV EIA
+histopath.l,Histopatology - large
+histopath.s,Histopatology - small
+hiv.antig.AC,HIV Antigen Antibody Combo
+hiv.agab,HIV Ag-Ab
+hiv.test,HIV Testing
+hepa.a.antiv,"Hepatitis A Virus Antibody  (Anti-HAV, IgG-IgM) Screening Test"
+hepa.profile,Hepa Profile (7Parameters)
+hepa.b_rap,Hepatitis B (HBsAg) Rapid Test
+hepa.b_hbs_car,Hepatitis B HBsAg (Immunochromatography) Card Test
+hbs_QL,HBsAg (Screeining) Qualitative
+hbs_QT,HBsAg (Screeining) Quanitative
+hbs_cm,HBsAg (CMIA)
+hbs_ei,HBsAG (EIA)
+hepa.b_el,Hepatitis B Surface Antigen (HBsAg)-ELISA principle
+hepa.b_sst,Hepatitis B Surface Antigen (HbsAg) Screening Strip Test
+hepa.b_antib,Hepatitis B envelope Antibody (Anti-HBe)
+hepa.b_antg,Hepatitis B envelope Antigen (HBeAg)
+hepa.b_antib,Hepatitis B surface Antibody Test (Anti-HBs)
+hepa.c_antihcv,Hepatitis C Antibody Test (Anti-HCV) Screening Test
+hiv_anti,Human Immunodeficiency Virus Screening  (Anti-HIV)
+IP,Inorganic Phosphorus
+hema_PC,Hemotocrit & Platelet count
+hemo_hema,Hemoglobin & Hemotocrit
+genx,GenXpert MTB/RIF
+HbA1c,Glycosylated Hemoglobin (HbA1c)
+gs1,"Gram’s Staining (Urine, Sputum,OBF)"
+kdft.kdft,Kidney Function Test - Kidney Function Test
+kdft.C,Kidney Function Test - Creatinine
+kdft.CKMB,Kidney Function Test - Creatinine Kinase MB isoenzyme (CKMB)
+kdft.CC,Kidney Function Test - Creatinine clearance
+kdft.bun,Kidney Function Test - Blood Urea Nitrogen (BUN)
+koh,KOH (Potassium hydroxide)
+koh.m,KOH Mount
+koh.sm,KOH Smear
+lp,Lipid Profile - Lipid Profile (Package)
+lp.tri,Lipid Profile - Triglycerides
+lp.ldhd.lipo,Lipid Profile - Low Density + High Density Lipoprotein
+lp.ld.lipo,Lipid Profile - Low Density Lipoprotein
+lp.hd.lipo,Lipid Profile - High Density Lipoprotein
+lp.chole,Lipid Profile - Cholesterol
+lp.chole.hdl,Lipid Profile - Cholesterol - HDL
+ldh,Lactate Dehydrogenase (LDH)
+lepto,Leptospira (IgG-IgM Ab)
+ggt,GGT
+liven.liven,Liver Enzymes - Liver Enzymes
+liven.sgptsgot,Liver Enzymes - Alanine + Aspartate Transaminase (SGPT + SGOT)
+liven.sgpt,Liver Enzymes - Alanine Transaminase (SGPT)
+liven.sgot,Liver Enzymes - Aspartate Transaminase (SGOT)
+filariasm,Filarial Smear
+malaria_qt,Malaria (Quanti)
+malaria_cs,Malarial Count and Screening
+malaria_ct,Malarial Count
+malaria_s,Malarial Screening
+malaria_sm,Malarial Smear
+malaria_rap,Malaria Rapid Test
+ct.bt,CT-BT
+appt_mix,APTT - Mixing Study
+leprep1,LE Prep
+c_bld,Occult Blood
+pap_sm,Pap's Smear
+wetmt,Wet Mount (Paragonimus)
+preg_test,Pregnancy Test
+periph_sm,Peripheral Smear
+procalc,Procalcitonin
+pt_pt,Prothrombin Time & Partial Thromboplastin Time (PT & PTT)
+p,Prothrombin Time (PT)
+ptt,Partial Thromboplastin Time (PTT)
+rpr,Rapid Plasma Reagin (RPR)
+rpr_l,"Rapid Plasma Reagin, Latex"
+ret_ct,Reticulocyte Count
+rf,Rheumatoid Factor (RF)
+scot_ts,Scotch Tape Swab
+semen_ana,Semen Analysis
+se.se,Serum Electrolytes - Serum Electrolytes (Package)
+se.ca,Serum Electrolytes - Calcium
+se.cikna,"Serum Electrolytes - Chloride, Potassium & Sodium"
+se.co,Serum Electrolytes - Chloride
+se.k,Serum Electrolytes - Potassium
+se.na,Serum Electrolytes - Sodium
+se.mg,Serum Electrolytes - Magnesium (Mg)
+se.li,Serum Electrolytes - Lithium
+se.ical,Serum Electrolytes - Ionized Calcium (ICal)
+se.b2b2,Serum Electrolytes - IBDB (B1B2)
+se.totalca,Serum Electrolytes - Total Calcium
+se.totalca_ca,"Serum Electrolytes - Total Calcium (Ca), and Ionized Calcium (Ca++)"
+st.ex,Stool Exam - Stool Exam
+st.ex.ana,Stool Exam - Stool Analysis
+st.ex.contech,Stool Exam - Concentration Technique
+st.ex.fecal,Stool Exam - Fecalysis
+st.ex.fecalocbld,Stool Exam - Fecalysis with Occult Blood
+st.ex.ovact,Stool Exam - Ova Count
+st.ex.io,Stool Exam - Iodine
+st.ex.kt,Stool Exam - Kato-Thick
+st.ex,"Stool Exam - Concentration Technique (Brine Floatation Technique, Formalin Ethyl Acetate Concentration Technique)"
+fec.cont,Fecal Concentration Method
+afb.stain,AFB Staining & DSSM
+sputum_afbs,Sputum Microscopy - AFB Staining
+sputum_afbc,Sputum Microscopy - AFB Culture
+sputum_afbcs,Sputum Microscopy - AFB Culture & Sensitivity
+sputum_sgs,Sputum Microscopy - Sputum Gram Staining
+sputum_sc,Sputum Microscopy - Sputum Culture
+sputum_scs,Sputum Microscopy - Sputum Culture & Sensitivity
+sputum_koh,Sputum Microscopy - KOH Preparation
+sputum_ii,Sputum Microscopy - India Ink (Exam)
+sputum_csf,Sputum Microscopy - CSF and other body fluids AFB
+sputum_csf_gs,Sputum Microscopy - CSF and other body fluids Gram Staining
+sputum_csf_koh,Sputum Microscopy - CSF and other body fluids KOH
+sputum_rafb,Sputum Microscopy - Sputum and other Respiratory specimens AFB Staining
+sputum_rgs,Sputum Microscopy - Sputum and other Respiratory specimens Gram Staining
+sputum_rkoh,Sputum Microscopy - Sputum and other Respiratory specimens KOH
+sputum_uafb,Sputum Microscopy - Urine AFB
+sputum_ugs,Sputum Microscopy - Urine Gram Staining
+sputum_ukoh,Sputum Microscopy - Urine KOH
+sputum_woundgs,Sputum Microscopy - Wound Discharges Gram Staining
+sputum_woundkoh,Sputum Microscopy - Wound Discharges KOH
+sputum_slitss,Sputum Microscopy - Slit Skin Smear
+wba.private,Water Biological Analsyis - Private
+wba.gov,Water Biological Analsyis - Government
+wba.wb,Water Biological Analsyis - Water Bacteriology
+wa_phc,"Water Analysis, PHC Medium"
+thyro_sh,Thyroid Stimulating Hormone
+thyr_p,Thyroid Panel
+total_p,Total Protein
+total_pagr1,"Total Protein, Albumin/Globulin Ration"
+cholestrl,Cholesterol
+trigly,Triglycerides
+total_psb,"Total Protein (serum, other body fluids)"
+total_pagr,Total Protein A/G ratio
+tri_woculture,Transfusion Reaction Investigation 1 (w/o culture)
+tri_wculture,Transfusion Reaction Investigation 2 (w/ culture)
+salmo_typhi,Salmonela Typhi
+tpht,Treponema Pallidum Hemeaggultination Test
+trop1,TROP I
+trop,Troponin
+trop1,Troponin I
+trop1_ql,Troponin I (Qualitative)
+trop1_qt,Troponin I (Quantitative)
+tropT,Troponin T
+tsh,TSH
+typhi,Typhidot
+ultra.ct.biop,Ultrasound and CT-guided Biopsies
+uricacid,Uric Acid
+urinalysis,Urinalysis
+urinalysis.auto,Urinalysis (Automated)
+routine.urina,Routine Urinalysis
+uridip,Urine Dipstick
+urisug,Urine Sugar
+uriprot,Urine Protein
+urialbum,Urine Albumin
+uriket,Urine Ketones
+wetsm_kohnss,Wet Smear (KOH & NSS)
+post.prand_bldglc,2 Hr. Post-Prandial Blood Glucose
+bjp,Bence Jones Protein
+acetone,Acetone
+bile,Bile
+nitrite,Nitrite
+urobilin,Urobilinogen
+drugtest_thcmet,Drug Test for THC/MET (Urine)
+drugtest,Drug Testing
+hcg,HCG
+pregtest_us,Pregnancy Test (HCG) Urine/serum
+pregtest_s,Pregnancy Test Serum
+pregtest_u,Pregnancy Test Urine
+pregtest_usp,"Pregnacny Test, Urine/Serum/Plasma"
+pregtest_addtlhcg,Addt'l Pregnancy Test kit for 24 hours HCG
+deng_ns1,Dengue NS1
+deng_igg,Dengue IgG IgM
+hepa_hbsag,Hepatitis B surface antigen (HBSAG)
+hdl,HDL
+ldh,LDH
+bldpro_wb,Blood Processing - Whole blood
+bldpro_prbc,Blood Processing - Packed Red Blood Cells
+bldpro_others,"Blood Processing - Other Components (PC, FFP, Cryo)"
+bldpro_pcon,Blood Processing - Platelet Concentrate
+bldpro_fplas,Blood Processing - Fresh Frozen Plasma
+deng_rt,Dengue Rapid Test
+deng_rtigmigg,"Dengue rapid test, IgM, IgG"
+deng_check,Dengue Check
+gs,Gram Staining
+anti_sc,Antibody Screening
+antib_spcell,Antibody Screening (patient 3 cell panel)
+antib_sdcell,Antibody Screening (donor) - 1 cell panel
+phleb,Phlebotomy
+uriket,Urine Ketone
+uriprot,24 Hr. Urine Protein
+urihcg,24 hours Urine HCG titer
+uriran,24-hour urine/Random protein
+urialbu.ecg,24- Hours Urine Albumin with ECC
+urineCC,24 HR. Urine Creatinine Clearance
+endoCC,24-Hours Endogenous Creatinine Clearance (ECC)
+uriprot.alb,24- Hours Urine Protein/Albumin
+urikat.stoolexam,Kato Katz Technique Stool Exam
+apc,Actual Platelet Count
+apfeto,Alpha Fetoprotein
+leprep,L&E Prep
+lect,Lee-White Clotting Time
+ck,CK
+ck.to,CK Total
+ck.mb,CK MB
+b.hcg,B-Human Chorionic Gonadotropin (B-HCG)
+biopsy.unspe,"Biopsy - Biopsy, unspecified"
+biopsy.sm,Biopsy - Biopsy Small
+biopsy.biopmed,Biopsy - Biopsy Medium
+biopsy.biol,Biopsy - Biopsy Large
+biopsy.bioxl,Biopsy - Biopsy Extra Large
+biopsy.biofs,Biopsy - Biopsy Frozen Section
+biopsy.l1,Biopsy - Level 1 Biopsy Processing for Histopathology
+biopsy.l2,Biopsy - Level 2 Biopsy Processing for Histopathology
+biopsy.l3,Biopsy - Level 3 Biopsy Processing for Histopathology
+biopsy.l4,Biopsy - Level 4 Biopsy Processing for Histopathology
+biopsy.l5,Biopsy - Level 5 Biopsy Processing for Histopathology
+biopsy.l6,Biopsy - Level 6 Biopsy Processing for Histopathology
+biopsy.FNAB,Biopsy - Fine Needle Aspiration Biopsy Processing
+histo.s,Small Histo
+histo.m,Medium Histo
+histo.l,Large Histo
+histo.xl,Extra Large Histo
+anti.antibher,Antinuclear Antibody Her2
+betahcg,Beta HCG
+betahcd,Beta-HCD with dilution
+c3,C3 (Complement 3)
+ca125,CA 125
+ca15.3,CA 15-3
+ca19.9,CA 19-9
+carci.embry,Carcino-Embryonic Antigen
+cp_unspec,"Cardiac Panel - Cardiac Panel, Unspecified"
+cp_bnp,Cardiac Panel - BNP (B-type Natriuretic Peptide)
+cp_ckmb,Cardiac Panel - CK-MB (Creatine Kinase-MB)
+cp_ddiner,Cardiac Panel - D-Diner
+cp_myo,Cardiac Panel - Myolobin
+cp.trop1_ql,Cardiac Panel - Troponin I (Quantitative)
+cryo.pre.sup,Cryoprecipitate/Cryosupernate
+cryo.pre,Cryoprecipitate
+cryo.sup,Cryosupernate
+csf_bldfluid,CSF/Body Fluid Cell Count
+csf_cc,CSF Cell Count (Manual Method)
+csf_prot,CSF Protein
+csf_sug,CSF Sugar
+synov_prot,Synovial Protein
+synov_sug,Synovial Sugar
+csf_bldfluid,C/S CSF/ Body Fluid
+cs_disch,C/S Discharge
+cs_stool,C/S Stool
+fplas,Fresh Frozen Plasma
+ft3,FT3
+ft4,FT4
+abo.rh.typfor,ABO-RH typing Forward Only
+abo.rh.typres,ABO-Typing Reverse Only
+abo.rh.typforres,ABO-Typing Forward & Reverse
+abo.rh.typbm,ABO-Typing Baby & Mother
+abo.for.grp,Forward ABO/RH Grouping (Gel Method)
+abo.for.newb,Forward ABO/RH Grouping - Newborn (Gel Method)
+abo.rev.grp,Reversed ABO/RH Grouping (Gel Method)
+abo.for.grp.don,Forward ABO/RH Grouping - for donors (Tube Method)
+abo.rev.for,Combined Reverse & Forward ABO/Rh Grouping (Gel Method/Erythrocyte Magnetical Technology)
+hbsag,HBsAg Screening
+herneu,Her 2 NEU
+hcv,HCV (Chemilu)
+hcv_cmia,HCV (CMIA)
+massivetrans.prot1,Massive Transfussion Protocol Pack #1
+massivetrans.prot2,Massive Transfussion Protocol Pack #2
+mg,Magnesium
+p,Phosphorus
+pcon,Platelet Concentrate
+reverse.typ,Reverse Typing
+afp,AFP
+alp,ALP
+ana,Anti-Nuclear Antibody (ANA)
+beta.hcg,Beta-HCG
+ca.125,CA-125
+cea,Carcino Embryonic Antigen (CEA)
+CKMB,CK-MB (Creatinine Kinase - Muscle Brain Isienzyme)
+fpsa,Free Prostate Specific Antigen (FPSA)
+psa,Prostate Specific Antigen (PSA)
+hbsag.antig,HBsAg Hepatitis B surface Antigen
+hepa.a.antiv,Anti-HAV IgM (IgM Antibodies to Hepatitis A Virus)
+hepa.a.antiv.to,Anti-HAV Total (Total Antibodies to Hepatitis A Virus)
+hepa.b.antig,Anti-HBs (Antibodies to Hepatitis B Surface Antigen)
+hbeag,HBeAg (Hepatitis B Envelop Antigen)
+anti.hbe1,Anti-HBe (Antibodies to Hepatitis B Envelop Antigen)
+hbeag_anti.hbe,HBeAg>&Anti-Hbe
+anti.hbc.total,Anti-HBc Total (Total Antibodies to Hepatitis B Core Antigen)
+anti.hbc.igm,Anti-HBcIgM (IgM Antibodies to Hepatitis B Core Antigen)
+anti.hbc.antihepa,Anti-HBc Anti-Hepatitis B core
+asot,Anti-Streptolysin O Titer (ASOT)
+aso_qt,ASO Quantitative
+aso_lat,ASO Latex
+chik,Chikungunya
+CC,Creatinine Clearance
+cort,Cortisol
+crp_qt,CRP-Quantitative
+crp_lat,CRP Latex
+cult_gd,Culture Genital Discharge
+cult_stool,Culture Stool
+cult_csf,Culture CSF
+csf_cultureandsens,CSF/sterile body fluids Culture and Sensitivity
+csf_otherBfluid,CSF and other Body Fluid Analysis
+cult_wounddisch,"Culture Wound Discharge, Abscess"
+cpf,Culture Pleural Fluid
+trachendo.asp,Tracheal/Endotracheal Aspirate
+cult_throatswab,Culture Throat Swab
+cult_bone,Culture Bone
+cult_tissue,Culture Tissue
+cult_otherBfluids,Culture Other Body Fluids
+cult_bld,Culture Blood
+cult_bld_ard,Culture blood with ARD
+deng_antib,Dengue Antibodies
+fernings_test,Ferning's Test
+fibrinogen,Fibrinogen
+fect,Formalin-Ether Stool Concentration Technique (FECT)
+fsh,FSH (Follicle Stimulating Hormone)
+g6pd_confirm,G6PD Confirmatory Test
+hpylori,H. Pylori
+insulin,Insulin
+india_ink,INDIA INK
+leptospi,Leptospirosis
+lipase,Lipase
+micraltest,Micral Test
+ogct1,Oral Glucose Challenge Test
+ogct2,Oral Glucose Challenge Test (with Baseline FBS)(OGCT)
+ogtt,OGTT
+pregpack_wogtt,Preg Pack with OGTT
+pregpack_woogtt,Preg Pack without OGTT
+fbs,FBS
+prolac,Prolactin
+pe,Physical Examination
+purebac,Pure Bacterial Isolate (for Research)
+stone_analy,Stone Analysis (Urinary Calculi Analysis) - Processing Fee
+serum_fo,Serum Folate
+serum_fer,Serum Ferritin
+serum_prot,Serum Protein
+serum_fe,Serum Iron
+sypanti_raptest,Syphilis Antibody - Rapid Test
+styphi.igm,S. Typhi IgG/IgM
+styphi.tubex,S. Typhi TUBEX
+syphi_chem,Syphilis (Chemilu)
+syphi_eia,Syphilis (EIA)
+syphi_tp.pa,Syphilis (TP-PA)
+syphi_cmia,Syphilis (CMIA)
+syphi_qt,Syphilis (Quanti)
+bhcg,Total Beta-HCG (BHCG)
+tppa,TPPA (Treponella Pallidum Particle Agglutination)
+tpag1,TP A/G
+trep_pall,Treponama Pallidum
+t3,T3
+tt3,Total T3
+freet3,Free T3
+t4,T4
+tt4,Total T4
+freet4,Free T4
+thera_phleb,Therapeutic Phlebotomy
+total_cell,Total Cell Count with Differential Count
+fluidcyto_cb,Fluid Cytology/ Cell Block
+bldfluid_cultureandsens,Body Fluid Culture and Sensitivity
+bldfluid_sug,Body Fluid Sugar
+bldfluid_prot,Body Fluid Protein
+vag_sm,Vaginal Smear
+pap_st,Pap's stain
+pbs,Peripheral Blood Smear (PBS)
+rapt_tubex,Rapid Typhoid Test (TUBEX)
+rheu_test,Rheumatoid Test
+salmt_test,Salmonella (Typhoid Test)
+salmt_analys,Seminal Fluid Analysis
+urine_spot,Spot Urine Albumin:Creatinine Ratio
+totalbeta_hcg,Total beta-HCG Total Beta-Human Chronic Gonadotropin
+uibc,UIBC/TIBC (Unsaturated/Total Iron Binding Capacity)
+vdrl,VDRL/Syphilis
+syphi_test,Test for Syphilis (Screening)
+wa,Water Analysis
+tpag,TPAG
+tpag_ratio,TPAG (W/A/G Ratio)
+tpsa,Total Prostate Specific Antigen (TPSA)
+tpha,TPHA test (EIA)
+lh,LH
+wt,Widal Test
+stool_cult,Stool Culture
+throat_cultureandsens,Throat Swab Culture and Sensitivity
+ure.vag_cultureandsens,Urethral / Vaginal Swab Culture and Sensitivity
+rect_cultureandsens,Rectal Swab Culture and Sensitivity
+osmo_frag,Osmotic Fragility test
+hav_cmia,HAV (CMIA)
+hbsab_cmia,HBsaB (CMIA)
+hiv_chem,HIV (Chemilu)
+hiv_eia,HIV (EIA)
+hiv_pa,HIV (PA)
+hiv_cmia,HIV (CMIA)
+hiv1or2screen,HIV 1 & 2 screening
+hs.crp,High Sensitive CRP (HS-CRP)
+psa_qt,PSA (Quantitative)
+psa_rap,PSA Rapid
+bjp,Bence Jones Protein
+procfee,Processing Fee
+prbc,Processing Fee (PRBC)
+procfee_prp,"Processing Fee (PRP, PC & FFP)"
+procfee_crypto,Processing Fee (Cryoprecipitate)
+ct_guide.biop,CT-Guided Biopsy
+fluid_cyto,Fluid Cytology (All Fluids)
+surg_s,Surgical Specimen: (Small)
+surg_m,Surgical Specimen: (Medium)
+surg_la,Surgical Specimen: (Large)
+rev_slides,Review of Slides
+imm_inter,Immunostain Interpretation
+intraop_cons,Intraoperative Consultation (processing only)
+intraop_cons_pack,Intraoperative Consultation package
+organdonor_hbsag,For Organ Donors Only - Screening for HBsAg (Quantitative)
+organdonor_hcv_qt,For Organ Donors Only - Screening for HCV (Quantitative)
+organdonor_hcv12_qt,For Organ Donors Only - Screening for HIV1&2(Quantitative)
+organdonor_hivmalaria_ict,For Organ Donors Only - Screening for HIV Malaria (ICT)
+organdonor_syphi_qt,For Organ Donors Only - Screening for Syphilis(Quantitative)
+dupli_copy,Duplicate copy of result (per print/copy)
+hiv12_qt,HIV 1/2 (Quanti)
+hiv12_ql,HIV 1/2 (Quali)
+meth.gov,Methamphetamine/Tetrahydrocannabinol - Government Employee with Company I.D.
+meth.school,Methamphetamine/Tetrahydrocannabinol - Students with School I.D.
+phy_clr_colori,Physical - Color - Colorimetric (Visual Comparison)
+phy_sens_eval,Physical - Odor - Sensory Evaluation Technique
+phy_turbid,Physical - Turbidity - Turbidimetry
+chem_totalchlo,Chemical - Total Chloride - Argentometric Method
+chem_totalhard,Chemical - Total Hardness - Titrimetric
+chem_ca,Chemical - Calcium - Titrimetric
+chem_mg,Chemical - Magnesium - Computation
+chem¬_total,Chemical - Total Solids - Gravimetric
+chem¬_residchlo,Chemical - Residual Chlorine - DPD (Colorimetric)
+chem¬_ph,Chemical - pH - Electrometric (Colorimetric)
+chem¬_sulfate,Chemical - Sulfate - Turbidimetric
+chem¬_silic,Chemical - Silica - Molybdosilicate Method
